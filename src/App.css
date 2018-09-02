@@ -1,0 +1,348 @@
+.navbar
+{
+  border: none;
+  border-radius: 0;
+  margin: 0;
+  padding: 0;
+}
+.navbar-inverse .navbar-nav>li>a
+{
+  color: #f1c40f;
+  font-size: 16px;
+}
+.navbar span
+{
+  color:#f1c40f;
+}
+.carousel img
+{
+  width: 100%;
+}
+.About
+{
+  padding-top: 100px;
+}
+.About h2
+{
+   text-align: center;
+}
+.About hr
+{
+  background: #f1c40f;
+  height: 3px;
+  width: 100px;
+}
+.Clients 
+{
+  padding-top: 100px;
+}
+.Clients h2
+{
+   text-align: center;
+}
+.Clients hr
+{
+  background: #f1c40f;
+  height: 3px;
+  width: 100px;
+}
+.About h3
+{
+  text-align: center
+}
+.about-icons
+{
+  width: 100%;
+  height:100%;
+  padding-bottom: 20px;
+  text-align: center
+}
+.icon  
+{
+  width: 60%;
+  height:60%;
+  border: 2px solid #f1c40f;
+  border-radius: 50%;
+  font-size: 90px;
+  padding: 25px;
+  margin: auto;
+  text-align: center;
+  transition: all .5s ease-in-out;
+}
+.pro
+{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+}
+.pro .child
+{
+  padding: 0;
+}
+.pro .child img
+{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+.icon:hover
+{
+   background: #f1c40f;
+   color: #fff;
+}
+.conp
+{
+  padding-top: 100px;
+}
+.conp h2
+{
+  text-align: center;
+}
+.conp hr
+{
+  background: #f1c40f;
+  height: 3px;
+  width: 100px;
+}
+.con
+{
+  width: 80%;
+  margin: auto
+}
+.las
+{
+  padding-top: 100px;
+}
+.las h2
+{
+  text-align: center;
+}
+.las hr
+{
+  background: #f1c40f;
+  height: 3px;
+  width: 100px;
+}
+.test
+{
+  width:70%;
+  margin:auto
+}
+.hC 
+{
+  padding-top: 100px;
+}
+.hC h2
+{
+  text-align: center;
+}
+.hC h3
+{
+  text-align: center
+}
+.hC hr
+{
+  background: #f1c40f;
+  height: 3px;
+  width: 100px;
+}
+.hCi
+{
+  width: 100%;
+  height:100%;
+  padding-bottom: 20px;
+  text-align: center
+}
+.hCi span
+{
+  color: #f1c40f
+}
+.hciicon  
+{
+  width: 60%;
+  height:60%;
+  border: 2px solid #f1c40f;
+  border-radius: 50%;
+  font-size: 90px;
+  padding: 25px;
+  margin: auto;
+  text-align: center;
+}
+.contact h2
+{
+  text-align: center;
+}
+.contact hr
+{
+  background: #f1c40f;
+  height: 3px;
+  width: 100px;
+}
+.contact .c
+{
+  width: 80%;
+  margin: auto
+}
+.cbtn
+{
+  margin: auto;
+  margin-bottom: 50px;
+  margin-left: 45%;
+  font-size: 20px;
+  transition: all .5s ease-in-out
+}
+.cbtn:hover
+{
+  background: #f1c40f;
+}
+footer
+{
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  background: #000;
+  height:50px;
+  color: #fff;
+}
+footer p
+{
+  font-size: 20px;
+  padding: 10px;
+  padding-bottom: 0;
+  text-align: center
+}
+.bttn
+{
+  margin-top: 20px;
+  font-size: 20px;
+  margin-left: 40%;
+  transition: all .5s ease-in-out
+}
+.e
+{
+  margin-top: 20px;
+  font-size: 20px;
+  margin-left: 47%;
+}
+.bttn:hover
+{
+  background: #f1c40f;
+}
+
+.bandpic
+{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+}
+.bandpic img
+{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+.aband
+{
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden
+
+}
+.aband button
+{
+  text-align: center;
+  margin: auto;
+  margin-left: 40%;
+}
+.book
+{
+  padding-top: 100px;
+}
+.book h2
+{
+  text-align: center;
+}
+.book hr
+{
+  background: #f1c40f;
+  height: 3px;
+  width: 100px;
+}
+.bpic
+{
+  margin: 0;
+  padding: 0;
+}
+.clear 
+{
+  clear: both;
+}
+.carousel-control {
+    position: absolute;
+    top: 50%;
+    bottom: 0;
+    left: 0;
+    width: 4%;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    background: #000 none repeat scroll 0 0;
+    border-radius: 3px;
+    height:17%;
+    text-align: center;
+    opacity: 0;
+    transition: all 1s ease-in-out
+}
+.carousel:hover .carousel-control
+{
+   opacity: .5;
+}
+.carousel-control:hover
+{
+  background: #f1c40f
+}
+.ap:first-child
+{
+  margin-top: 20px;
+}
+.ap
+{
+  background: #eee;
+  width: 100%;
+  margin-top: 10px;
+  padding: 20px;
+}
+.audio
+{
+  margin: 30px auto;
+  width: 100%;
+}
+@media only screen and (max-width: 768px) 
+{
+  .bttn,.cbtn
+  {
+    margin-left: 0;
+  }
+  .carousel-control
+  {
+    width: 10%;
+    height: 25%;
+  }
+  .ap
+  {
+    text-align: center;
+    padding-left: 10px;
+  }
+}
+.mi
+{
+  width: 100%;
+  height: 100%;
+  text-align: center
+}
+.mi img
+{
+  width: 100%;
+  height: 100%;
+}
